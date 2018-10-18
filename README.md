@@ -4,8 +4,8 @@ Uses the Webex Teams SDK to fetch attachments of all spaces for specified teams.
 
 #### Instructions
 
-1. Copy API token from https://developer.webex.com/getting-started.html
-2. Run included `get_teams()` or otherwise find the id of the teams you wish to plunder
+1. Generate and copy your personal API token from https://developer.webex.com/getting-started.html to the `token` variable in downloader.py
+2. Run included `find_teams()` in downloader.py, or otherwise find the ids of the teams you wish to plunder and add them manually to the `teams` list in downloader.py
 3. Run `pip install webexteamssdk`
 4. Run `python downloader.py`
 
