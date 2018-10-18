@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/levensailor/py-teams-attachments)
+
 # py-teams-attachment
 
 Uses the Webex Teams SDK to fetch attachments of all spaces for specified teams. 
